@@ -4,7 +4,7 @@ import sys
 from RSA import generate_keypair,encrypt,decrypt
 import struct
 
-
+         
 
 SIZE = 1024
 des_key='secret_k'
